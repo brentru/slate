@@ -1,15 +1,20 @@
 ---
-title: API Reference
+title: Adafruit IO API Reference
 
-language_tabs: # must be one of https://git.io/vQNgJ
+language_tabs:
   - shell
-  - ruby
   - python
-  - javascript
+  - cpp
+  - ruby
+  - go
+  - nodejs
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
+  - <a href='http://io.adafruit.com'>Adafruit IO</a>
+  - <a href='https://io.adafruit.com/blog'>Adafruit IO News</a>
+  - <a href='https://io.adafruit.com/support'>Adafruit IO Support</a>
+  - <a href='https://io.adafruit.com/plus'>Adafruit IO Plus</a>
+  - <a href='https://io.adafruit.com/terms'>Adafruit IO ToS</a>
 
 includes:
   - errors
