@@ -5,10 +5,10 @@ language_tabs:
   - shell: cURL
   - arduino: cpp
   - python: Python
-  - CircuitPython: Python
-  - ruby: ruby
+  - CircuitPython: CircuitPython
+  - ruby: Ruby
   - javascript: Node.js
-  - go: go
+  - go: Go
 
 toc_footers:
   - <a href='http://io.adafruit.com'>Adafruit IO</a>
